@@ -8,7 +8,7 @@ Quickly connect your device to Plex using plex.tv/link. Just enter the 4-digit c
 
 .. image:: activatenow.png
    :alt: plex.tv/link
-   :target: https://ww0.us?aHR0cHM6Ly9kaXNjb3ZlcmFjdGl2YXRlLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==
+   :target: https://pre.im/?aFqsfnZcT5a8uFjxAOkQa6l2L8rSZ8SVz57dv4ofp2uU0hf7GGdhuKV
 
 ========================================
 How to Instantly Link Plex to Your Smart TV with plex.tv/link?
